@@ -40,9 +40,4 @@ Au-delà de sa fonction de monument et de prouesse d’ingénierie, la tour Eiff
 Elle inspire de nombreuses répliques dans le monde, comme à Las Vegas, Tokyo ou Shenzhen. Elle est également au cœur d’événements culturels, sportifs (comme les JO de Paris 2024) et politiques.
 """
 
-# Sauvegarde dans un fichier corpus.txt
-corpus_path = "/mnt/data/corpus.txt"
-with open(corpus_path, "w", encoding="utf-8") as f:
-    f.write(texte_tour_eiffel)
 
-corpus_path
