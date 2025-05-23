@@ -1,17 +1,48 @@
-La tour Eiffel est l’un des monuments les plus célèbres au monde et un symbole emblématique de la ville de Paris. Elle a été construite entre 1887 et 1889 par l’ingénieur Gustave Eiffel, dans le cadre de l’Exposition universelle de 1889, qui célébrait le centenaire de la Révolution française. À l’époque, elle était la plus haute structure jamais construite par l’homme, culminant à 300 mètres. Avec ses antennes actuelles, elle mesure aujourd’hui environ 330 mètres.
+# Création du fichier corpus.txt avec un texte long et informatif sur la tour Eiffel
 
-Le projet avait initialement suscité de nombreuses critiques de la part des artistes et intellectuels de l’époque, qui la trouvaient laide et inutile. Pourtant, une fois achevée, la tour Eiffel est devenue un symbole de progrès technique et d’innovation, attirant des millions de visiteurs dès les premières années.
+texte_tour_eiffel = """
+La tour Eiffel est sans doute l’un des monuments les plus emblématiques au monde. Située à Paris, en France, elle incarne l'ingéniosité humaine, l’audace architecturale du XIXe siècle et le symbole de la modernité qui continue d’attirer chaque année des millions de visiteurs venus des quatre coins de la planète.
 
-La tour est composée de plus de 18 000 pièces de fer puddlé, un matériau utilisé avant l’acier moderne, et assemblée avec plus de 2,5 millions de rivets. Elle pèse environ 10 000 tonnes. Malgré sa taille impressionnante, sa structure en treillis permet une grande légèreté visuelle et une remarquable résistance au vent.
+Origines et conception
 
-Initialement prévue pour être démontée après 20 ans, elle a été sauvée grâce à son utilité en tant qu’antenne de radiodiffusion, notamment pendant la Première Guerre mondiale. Aujourd’hui, elle est encore utilisée pour la diffusion de programmes radio et télévision.
+L'histoire de la tour Eiffel commence à la fin du XIXe siècle, dans un contexte d'effervescence industrielle et scientifique. À l’occasion de l’Exposition universelle de 1889, organisée pour célébrer le centenaire de la Révolution française, le gouvernement français lance un concours afin de construire une tour de 300 mètres de haut sur le Champ-de-Mars. Le projet est remporté par Gustave Eiffel, ingénieur et entrepreneur français, déjà reconnu pour ses travaux en métallurgie et pour avoir participé à la structure de la Statue de la Liberté.
 
-La tour Eiffel est divisée en trois étages accessibles au public. Le premier étage offre une vue panoramique et un plancher en verre. Le deuxième étage abrite le célèbre restaurant « Le Jules Verne ». Enfin, le troisième étage, situé à plus de 270 mètres de hauteur, offre une vue spectaculaire sur Paris. Par temps clair, on peut voir jusqu’à 70 kilomètres à la ronde.
+La conception technique revient principalement à deux ingénieurs de son entreprise, Maurice Koechlin et Émile Nouguier, ainsi qu’à l’architecte Stephen Sauvestre. Ensemble, ils conçoivent une tour entièrement en fer puddlé, composée de plus de 18 000 pièces métalliques assemblées par plus de 2,5 millions de rivets. Le chantier démarre en 1887 et mobilise près de 300 ouvriers. Malgré les difficultés techniques et les critiques virulentes, la tour est achevée en à peine deux ans et deux mois — une prouesse pour l’époque.
 
-Le monument est éclairé chaque soir et scintille toutes les heures pendant 5 minutes grâce à des milliers d’ampoules. Elle accueille environ 7 millions de visiteurs par an, ce qui en fait le monument payant le plus visité au monde.
+Réactions et controverses
 
-La tour Eiffel incarne le génie français et l’esprit d’innovation de la fin du XIXᵉ siècle. Elle est devenue une icône mondiale, un lieu de rassemblement pour les événements majeurs, et un élément central de l’identité parisienne.
+Lors de sa construction, la tour Eiffel ne fait pas l’unanimité. De nombreux artistes et intellectuels de l’époque, comme Guy de Maupassant, Alexandre Dumas fils ou encore Charles Gounod, la considèrent comme une "verrue de fer" qui défigure la ville. Un manifeste signé par ces opposants est publié dans le journal Le Temps. Gustave Eiffel répond à ces critiques en affirmant que la tour représente "l’art du génie moderne" et symbolise le progrès technique.
 
-Aujourd’hui encore, elle continue de fasciner les touristes et les architectes du monde entier, et elle demeure un témoignage vivant du mariage entre art, technologie et audace.
+Malgré les polémiques, la tour est inaugurée le 31 mars 1889. Gustave Eiffel monte les 1 710 marches jusqu’au sommet pour y hisser le drapeau tricolore. Lors de l’ouverture de l’exposition universelle, elle connaît un immense succès public et attire près de deux millions de visiteurs en quelques mois.
 
+Caractéristiques techniques
 
+La tour Eiffel mesure 324 mètres de hauteur (avec les antennes installées ultérieurement). À sa construction, elle était le plus haut monument du monde jusqu’à l’achèvement du Chrysler Building à New York en 1930. Elle pèse environ 10 100 tonnes. Elle repose sur quatre piliers massifs ancrés dans des fondations profondes, chacun orienté vers un point cardinal. Sa structure en treillis permet de résister aux vents violents, qui peuvent faire osciller le sommet de la tour de plusieurs centimètres.
+
+Elle se compose de trois étages accessibles au public. Le premier (57 m) et le deuxième (115 m) abritent des restaurants, des boutiques, des expositions et des plateformes d’observation. Le troisième étage, situé à 276 mètres d'altitude, offre une vue panoramique spectaculaire sur tout Paris.
+
+Évolutions et usages
+
+Initialement destinée à être démontée après 20 ans, la tour Eiffel est sauvée grâce à sa conversion en antenne de télécommunication. Dès le début du XXe siècle, elle sert à émettre des signaux radio, puis des signaux de télévision. Elle devient ainsi un outil stratégique, notamment pendant la Première Guerre mondiale, en permettant l’interception de messages ennemis.
+
+Au fil des décennies, elle connaît de nombreux travaux de restauration et de modernisation. En 1985, un nouvel éclairage est installé avec 336 projecteurs au sodium. En 2000, pour le passage au nouveau millénaire, un scintillement composé de 20 000 ampoules est inauguré, qui illumine la tour chaque soir.
+
+Fréquentation touristique
+
+Aujourd’hui, la tour Eiffel est l’un des sites touristiques les plus visités au monde. Elle accueille en moyenne 7 millions de visiteurs par an, dont environ 75 % d’étrangers. Sa silhouette est reconnaissable entre toutes, et elle figure dans d’innombrables films, livres, peintures et photographies.
+
+Elle est gérée par la Société d’Exploitation de la Tour Eiffel (SETE), qui assure son entretien constant. Tous les sept ans, la tour est entièrement repeinte pour la protéger de la corrosion — un chantier colossal qui nécessite 60 tonnes de peinture.
+
+Symbole culturel et identitaire
+
+Au-delà de sa fonction de monument et de prouesse d’ingénierie, la tour Eiffel est devenue un symbole universel de Paris et de la France. Elle incarne le romantisme, l’élégance et l’histoire. Elle est aussi un exemple marquant de la façon dont un projet controversé peut devenir, avec le temps, un patrimoine mondial.
+
+Elle inspire de nombreuses répliques dans le monde, comme à Las Vegas, Tokyo ou Shenzhen. Elle est également au cœur d’événements culturels, sportifs (comme les JO de Paris 2024) et politiques.
+"""
+
+# Sauvegarde dans un fichier corpus.txt
+corpus_path = "/mnt/data/corpus.txt"
+with open(corpus_path, "w", encoding="utf-8") as f:
+    f.write(texte_tour_eiffel)
+
+corpus_path
