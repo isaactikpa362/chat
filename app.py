@@ -63,8 +63,8 @@ def chatbot(question):
 
 # 🔽 Interface utilisateur avec Streamlit
 def main():
-    st.title("🤖 Chatbot basé sur un fichier texte")
-    st.write("Pose une question sur le contenu de `corpus.txt`.")
+    st.title("🤖 Chatbot basé sur la Tour Eifel")
+    st.write("Pose une question sur la tour Eifel.")
 
     question = st.text_input("Vous :")
 
