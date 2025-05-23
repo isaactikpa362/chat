@@ -7,7 +7,7 @@ from nltk.stem import WordNetLemmatizer
 import string
 import streamlit as st
 # Load the text file and preprocess the data
-with open('/home/isaac-tikpa/Bureau/gemini/corpus.txt', 'r', encoding='utf-8') as f:
+with open('corpus.txt', 'r', encoding='utf-8') as f:
     data = f.read().replace('\n', ' ')
 # Tokenize the text into sentences
 sentences = sent_tokenize(data)
